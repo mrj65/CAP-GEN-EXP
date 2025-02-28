@@ -8,6 +8,8 @@ App can be tested at the following link : https://huggingface.co/spaces/Fine-Tun
 # USER INTERFACE
 ![image](https://github.com/user-attachments/assets/75504a88-f899-42ff-b9ef-a443e6c318ee)
 ![image](https://github.com/user-attachments/assets/90ee7584-c4c7-4494-9cb8-f871b1da521c)
+![image](https://github.com/user-attachments/assets/191ddc41-7f80-490d-a54f-20be4c54d45d)
+
 
 
 # WORKFLOW BLOCK DIAGRAM
