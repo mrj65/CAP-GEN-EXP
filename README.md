@@ -13,6 +13,11 @@ App can be tested at the following link : https://huggingface.co/spaces/Fine-Tun
 # WORKFLOW BLOCK DIAGRAM
 ![image](https://github.com/user-attachments/assets/eebd50ff-0cf3-470c-94cd-c182aac22348)
 
+# FINE-TUNE
+![image](https://github.com/user-attachments/assets/11ca3573-b677-4987-9f9a-21e9e38f6e64)
+![image](https://github.com/user-attachments/assets/3135e73c-5d58-4b2b-9d84-9b91cec1b68c)
+
+
 # ADDITIONAL EXAMPLES
 ![image](https://github.com/user-attachments/assets/0f9bd3e6-7acf-44b1-a145-0726d397ef30)
 ![image](https://github.com/user-attachments/assets/90103eac-920f-46b8-92b8-bfb18323f76b)
