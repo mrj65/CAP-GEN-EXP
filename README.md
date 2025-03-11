@@ -3,7 +3,11 @@ Pipeline combining the usage of BLIP ViT(https://huggingface.co/Salesforce/blip-
 The app focuses on forwarding generated captions into the SmolLM2 in order to explain the word/object in the image in more detail as weel as forwarding into stable diffisuion to generate new images and includeing XAI (grad-cam, self-attention) for the whole process.
 Finet notebook provides a simple workflow for fine-tuning the models along with integrated wandb logger.
 
-App can be tested at the following link : https://huggingface.co/spaces/Fine-Tuning-DLSE-Smol2/dlasw-pipeline-deploy?logs=container. Keep in mind as due to free hosting inference can last upwards to 10min.
+App can be tested at the following link : https://huggingface.co/spaces/Fine-Tuning-DLSE-Smol2/dlasw-pipeline-deploy?logs=container.
+Or by running inisde a Docker container locally:
+```python
+docker run -it -p 7860:7860 --gpus all --platform=linux/amd64  registry.hf.space/fine-tuning-dlse-smol2-dlasw-pipeline-deploy:latest python app.py
+```
 
 # USER INTERFACE
 ![image](https://github.com/user-attachments/assets/75504a88-f899-42ff-b9ef-a443e6c318ee)
